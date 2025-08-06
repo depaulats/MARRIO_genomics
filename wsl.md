@@ -38,5 +38,5 @@ Remember to run this command periodically.
 
 # Installing an environment manager.
 
-Go to the next tutorial 
+Go to the tutorial [Managing environments](https://github.com/depaulats/MARRIO_genomics/edit/main/conda.md).
 

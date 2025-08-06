@@ -1,14 +1,14 @@
 Welcome to the MARRIO Genomics Course Repository!
 
-This repository contains essential commands, scripts, and workflows used in the Genomics Course at the [4th MARRIO Workshop](https://linktr.ee/4thMarrioWorkshop) (Rio de Janeiro, 4–5 August 2025). It serves as a practical reference for participants, offering code snippets for common bioinformatics tasks, including sequence manipulation, quality control, and data visualization.
+This repository contains essential commands, scripts, and workflows used in the ***Genomics Course*** at the [4th MARRIO Workshop](https://linktr.ee/4thMarrioWorkshop) (Rio de Janeiro, 4–5 August 2025). It serves as a practical reference for participants, offering code snippets for common bioinformatics tasks, including sequence manipulation, quality control, and data visualization.
 
 # Getting Started
 
 To begin, follow the instructions based on your operating system:
 
-- Linux users can proceed directly to tutorials [here]().
+- Linux users can proceed directly to [our tutorials]().
 
-- Windows users must first enable the Windows Subsystem for Linux (WSL), following instructions [here]().
+- Windows users must first enable the [Windows Subsystem for Linux (WSL)]().
 
 - macOS users can contact [Carla Zilberberg](https://github.com/carlazilberberg) for assistance.
 

@@ -8,7 +8,7 @@ To begin, follow the instructions based on your operating system:
 
 - Linux users can proceed directly to [our tutorials]().
 
-- Windows users must first enable the [Windows Subsystem for Linux (WSL)]().
+- Windows users must first enable the [Windows Subsystem for Linux (WSL)](https://github.com/depaulats/MARRIO_genomics/edit/main/wsl.md).
 
 - macOS users can contact [Carla Zilberberg](https://github.com/carlazilberberg) for assistance.
 

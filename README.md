@@ -1,12 +1,24 @@
-# MARRIO_genomics
-This repository contains a collection of essential commands, scripts, and workflows used in the Genomics Course at the 4th MARRIO Workshop (Rio de Janeiro, 4--5 August 2025). It serves as a reference for participants, providing code snippets for common bioinformatics tasks such as sequence manipulation, quality control, and data visualization.
+Welcome to the MARRIO Genomics Course Repository!
 
-- If you are a Linux user, you can go straight to this tutorial [here]().
-- If you are a Windows user, first you will have to activate WSL in your computer. You can follow the instructions provided [here]().
-- If you are a macOS user, you can bother Carla Zilberberg [here](https://github.com/carlazilberberg).
+This repository contains essential commands, scripts, and workflows used in the Genomics Course at the 4th MARRIO Workshop (Rio de Janeiro, 4–5 August 2025). It serves as a practical reference for participants, offering code snippets for common bioinformatics tasks, including sequence manipulation, quality control, and data visualization.
 
-This repository is provided under the GNU General Public License, which guarantees users freedom to run, study, share, and modify it.
+# Getting Started
 
-If you find any difficulties when using this repository, or have any suggestions to improve it, don't hesitate to engage with us in the [Issues](https://github.com/depaulats/MARRIO_genomics/issues) section.
+To begin, follow the instructions based on your operating system:
 
-Good studies!!
+- Linux users can proceed directly to tutorials [here]().
+
+- Windows users must first enable the Windows Subsystem for Linux (WSL), following instructions [here]().
+
+- macOS users can contact [Carla Zilberberg](https://github.com/carlazilberberg) for assistance.
+
+# License
+
+This repository is licensed under the GNU General Public License, ensuring the freedom to use, study, share, and modify the content.
+
+# Feedback & Support
+
+Encountered an issue or have a suggestion for improvement? Feel free to engage with us in the [Issues](https://github.com/depaulats/MARRIO_genomics/issues) section. 
+We’d love to hear from you!
+
+**Happy learning!**

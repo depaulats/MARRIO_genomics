@@ -1,6 +1,6 @@
 Welcome to the MARRIO Genomics Course Repository!
 
-This repository contains essential commands, scripts, and workflows used in the Genomics Course at the 4th MARRIO Workshop (Rio de Janeiro, 4–5 August 2025). It serves as a practical reference for participants, offering code snippets for common bioinformatics tasks, including sequence manipulation, quality control, and data visualization.
+This repository contains essential commands, scripts, and workflows used in the Genomics Course at the [4th MARRIO Workshop](https://linktr.ee/4thMarrioWorkshop) (Rio de Janeiro, 4–5 August 2025). It serves as a practical reference for participants, offering code snippets for common bioinformatics tasks, including sequence manipulation, quality control, and data visualization.
 
 # Getting Started
 

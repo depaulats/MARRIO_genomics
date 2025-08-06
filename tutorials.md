@@ -1,6 +1,6 @@
 Access all step-by-step guides and workflows for this repository below.
 
-[1. Managing environments.]()
+[1. Managing environments.](https://github.com/depaulats/MARRIO_genomics/blob/main/conda.md)
 
 [2. Downloading FASTQ files.]()
 

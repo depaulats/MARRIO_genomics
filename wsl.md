@@ -40,4 +40,4 @@ Remember to run this command periodically.
 
 You are now set to dive into the [tutorials](https://github.com/depaulats/MARRIO_genomics/blob/main/tutorials.md).
 
-We stringly suggest your next step to be [setting up your environments](https://github.com/depaulats/MARRIO_genomics/blob/main/conda.md).
+We strongly suggest your next step to be [setting up your environments](https://github.com/depaulats/MARRIO_genomics/blob/main/conda.md).

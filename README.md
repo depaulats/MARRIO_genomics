@@ -6,9 +6,9 @@ This repository contains essential commands, scripts, and workflows used in the 
 
 To begin, follow the instructions based on your operating system:
 
-- Linux users can proceed directly to [our tutorials]().
+- Linux users can proceed directly to [our tutorials](https://github.com/depaulats/MARRIO_genomics/blob/main/tutorials.md).
 
-- Windows users must first enable the [Windows Subsystem for Linux (WSL)](https://github.com/depaulats/MARRIO_genomics/edit/main/wsl.md).
+- Windows users must first enable the [Windows Subsystem for Linux (WSL)](https://github.com/depaulats/MARRIO_genomics/blob/main/wsl.md).
 
 - macOS users can contact [Carla Zilberberg](https://github.com/carlazilberberg) for assistance.
 

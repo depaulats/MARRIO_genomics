@@ -2,7 +2,7 @@ Access all step-by-step guides and workflows for this repository below.
 
 [1. Managing environments.](https://github.com/depaulats/MARRIO_genomics/blob/main/conda.md)
 
-[2. Downloading FASTQ files.]()
+[2. Downloading NGS data.](https://github.com/depaulats/MARRIO_genomics/blob/main/seq_dump.md)
 
 [3. Filtering raw reads and quality control.]()
 

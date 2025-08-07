@@ -84,4 +84,4 @@ You you know which package you are looking for, you can just search their names 
 
 Otherwise you can follow the [tutorials](https://github.com/depaulats/MARRIO_genomics/blob/main/tutorials.md).
 
-In the next step you will find [how to retrieve NGS data](https://github.com/depaulats/MARRIO_genomics/blob/main/seq_dump.md).
+In the next step you will find [how to download NGS data](https://github.com/depaulats/MARRIO_genomics/blob/main/seq_dump.md).

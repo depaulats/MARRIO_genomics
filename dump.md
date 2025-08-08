@@ -32,6 +32,8 @@ To download this sequecing experiment from NCBI servers, viz., its FASTQ files w
 fasterq-dump SRR7464845 -O /mnt/c/MARRIO_genomics/SRR7464845 --split-files --threads 8 --progress
 ```
 
+After some time, you will get the output files `SRR7464845_1.fastq` and `SRR7464845_2.fastq` files, each with 7.63 Gb.
+
 Now that you have a NGS data, you can apply [filtering and quality control](https://github.com/depaulats/MARRIO_genomics/blob/main/clean.md) analyses.
 
 Or you can go back to the [tutorials](https://github.com/depaulats/MARRIO_genomics/blob/main/tutorials.md). 

@@ -44,6 +44,8 @@ And to map the filtered reads against the mtDNA reference, run the comand:
   out=/mnt/c/MARRIO_genomics/SRR7464845/SRR7464845_mtDNA_mapped.fastq
 ```
 
+After some time, you will get the output file containing both R1 and R2 mapped reads in the interleaved FASTQ file `SRR7464845_mtDNA_mapped.fastq`. 
+
 However, to map the filtered reads against the rDNA reference, you will have to edit the command above. Do it with panache!!
 
 You can also run FastQC to assess quality parameters from mapped reads, as you did during [filtering](https://github.com/depaulats/MARRIO_genomics/blob/main/clean.md)

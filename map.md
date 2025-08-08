@@ -46,9 +46,10 @@ And to map the filtered reads against the mtDNA reference, run the comand:
 
 However, to map the filtered reads against the rDNA reference, you will have to edit the command above. Do it with panache!!
 
-If you want to use a different mapper, such as [Bowtie2](https://github.com/BenLangmead/bowtie2), you can check the Mitogenomes repository [here](https://github.com/depaulats/Mitogenomes/blob/main/bowtie2_mapping.md).
+You can also run FastQC to assess quality parameters from mapped reads, as you did during [filtering](https://github.com/depaulats/MARRIO_genomics/blob/main/clean.md)
+
+If you want to use a different mapper, such as [Bowtie2](https://github.com/BenLangmead/bowtie2), you can check the Mitogenomes repository [here](https://github.com/depaulats/Mitogenomes/blob/main/bowtie2_mapping.md) for further instructions.
 
 Now that you have the filtered reads mapped to a reference, you can [assembly the reads](https://github.com/depaulats/MARRIO_genomics/blob/main/assemble.md).
 
 Or you can go back to the [tutorials](https://github.com/depaulats/MARRIO_genomics/blob/main/tutorials.md). 
-

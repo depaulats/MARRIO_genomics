@@ -57,7 +57,7 @@ Next, go to the Bandage page and download the corresponding version for you OS. 
 
 Did you get a circular mitochondrial genome? 
 
-Now that we have our largest contig, let's compare it with the reference by [sequence alignment](https://github.com/depaulats/MARRIO_genomics/blob/main/align.md).
+Now that we have our largest contig, let's compare it with the reference by [alignment of their sequences](https://github.com/depaulats/MARRIO_genomics/blob/main/align.md).
 
 Or you can go back to the [tutorials](https://github.com/depaulats/MARRIO_genomics/blob/main/tutorials.md). 
 

@@ -4,7 +4,19 @@ In order to map your filtered reads against a reference you will need to use the
 
 You do not need an environment to run BBMap since it "is written in pure Java, can run on any platform, and has no dependencies other than Java being installed".
 
-Thus, just download the package and extract it to `/mnt/c/MARRIO_genomics/`:
+To check if you have Java installed in the `(base)` environment, run:
+
+```
+java -version
+```
+
+If you get the message `Command 'java' not found, but can be installed with:`, run the following command, typing your password if/when prompted:
+
+```
+sudo apt install default-jre
+```
+
+Now, download the BBMap package and extract it to `/mnt/c/MARRIO_genomics/`:
 
 ```
 wget https://sourceforge.net/projects/bbmap/files/BBMap_39.33.tar.gz -P /mnt/c/MARRIO_genomics/
@@ -21,15 +33,22 @@ wget https://raw.githubusercontent.com/depaulats/MARRIO_genomics/main/reference/
 wget https://raw.githubusercontent.com/depaulats/MARRIO_genomics/main/reference/BK068393.fa  -P /mnt/c/MARRIO_genomics/
 ```
 
-Now, to map the reads against the mtDNA reference, run the comand:
+And to map the filtered reads against the mtDNA reference, run the comand:
 
 ```
 /mnt/c/MARRIO_genomics/bbmap/bbmap.sh \
   ref=/mnt/c/MARRIO_genomics/BK068137.fa nodisk \
   in1=/mnt/c/MARRIO_genomics/SRR7464845/SRR7464845_1_paired.fastq \
-  in2=/mnt/c/MARRIO_genomics/SRR7464845/SRR7464845_1_paired.fastq \
+  in2=/mnt/c/MARRIO_genomics/SRR7464845/SRR7464845_2_paired.fastq \
   mappedonly=t \
   out=/mnt/c/MARRIO_genomics/SRR7464845/SRR7464845_mtDNA_mapped.fastq
 ```
 
-Now, to map the reads against the rDNA reference, you will have to edit the command above. I'm sure you can do it!
+However, to map the filtered reads against the rDNA reference, you will have to edit the command above. Do it with panache!!
+
+If you want to use a different mapper, such as [Bowtie2](https://github.com/BenLangmead/bowtie2), you can check the Mitogenomes repository [here](https://github.com/depaulats/Mitogenomes/blob/main/bowtie2_mapping.md).
+
+Now that you have the filtered reads mapped to a reference, you can [assembly the reads](https://github.com/depaulats/MARRIO_genomics/blob/main/assemble.md).
+
+Or you can go back to the [tutorials](https://github.com/depaulats/MARRIO_genomics/blob/main/tutorials.md). 
+
